@@ -8,5 +8,3 @@
         <img src="https://1drv.ms/f/s!AjVcxYui3hzEhWUh1Fm23HAyGaYg?e=JXmyaQ" alt="pregunta" width="80 %"/>
          <img src="https://1drv.ms/f/s!AjVcxYui3hzEhWUh1Fm23HAyGaYg?e=XOMe5Y" alt="Partes" width="80 %"/>
           
-
-
