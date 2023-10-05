@@ -16,6 +16,7 @@
     <img src="https://1drv.ms/i/s!AjVcxYui3hzEkTKHb15Y8OX6_A49?e=eYUCUu" alt="conceptos software2" width="80 %"/>
      <img src="https://1drv.ms/i/s!AjVcxYui3hzEkTB_YmMh_CEna4gh?e=jyA4xy" alt="ventajas desventajas" width="80 %"/>
      
+  <img src="https://1drv.ms/i/s!AjVcxYui3hzEkHPuJ47HqHFcQM2U?e=ovNw35" alt="The science of computing" width="80 %"/>
   
  
           
